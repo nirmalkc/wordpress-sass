@@ -15,3 +15,7 @@ Extract the downloaded folder to "mytheme" folder.
 
 * Run the command "npm install", this will download all the required node modules to the root.
 
+## Deploy
+
+It is quite simple to deploy all the compiled files to your wordpress theme folder. Just copy the "mytheme" folder to your wordpress "theme" directory.
+
