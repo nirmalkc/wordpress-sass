@@ -1,6 +1,6 @@
 # Wordpress Starter theme with SASS
 
-This is an instruction and folder structure to setup a scaffholding for wordpress + sass site website.
+This is an instruction and folder structure to setup a boilerplate for developing a website with wordpress and sass. This folder structure is valid only while using [underscores.me](http://underscores.me/) generated theme.
 
 ## Steps to install and setup
 
